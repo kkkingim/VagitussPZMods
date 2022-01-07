@@ -1,0 +1,117 @@
+ContextMenu_CN = {
+
+    -- MinimalDisplayBars
+
+    ContextMenu_MinimalDisplayBars_ON = "开",
+
+    -- Tsar Common Library
+
+    ContextMenu_AirCondOn = "打开加热器",
+    ContextMenu_AirCondOff = "关闭加热器",
+    ContextMenu_Sleep_Mattress = "睡在床垫上",
+    ContextMenu_PainNoSleep_Mattress = "你感到过于痛苦，无法入眠"
+    ContextMenu_PanicNoSleep_Mattress = "你感到过于慌乱，无法入眠"
+    ContextMenu_NoSleepTooEarly_Mattress = "你无法到床垫上睡觉。<br>请稍后再试。",
+    ContextMenu_Add_Gasoline_To_Gasoline_Storage_Tank = "将汽油灌入油箱中",
+    ContextMenu_Remove_Gasoline_From_Gasoline_Storage_Tank = "从油箱中排出汽油",
+    ContextMenu_Fill_Gasoline_Storage_Tank_From_Pump = "用油泵中的汽油填充汽油储罐",
+    ContextMenu_Fill_Gasoline_Storage_Tank_From_Fuel_Truck = "用蓄油车中的油填充汽油储罐",
+    ContextMenu_Remove_Gasoline_From_Fuel_Truck = "从蓄油车加油",
+    ContextMenu_For_get_Gasoline_Need_Gas_Can = "需要汽油罐",
+	
+	ContextMenu_CloseTent = "关闭帐篷",
+	ContextMenu_OpenTent = "打开帐篷",
+	
+	/************ Autotsar Tuning Atelier - Bus ************/
+	ContextMenu_Vehicle_EGNH = "写 «EGNH»",
+
+    -- Manage Containers
+
+    ContextMenu_Put_Assigned_Containers = "放入指定的容器",
+    ContextMenu_Configure_Container = "配置容器",
+
+    -- Autotsar Trailers
+
+    ContextMenu_Close_trunk = "关闭后背箱",
+    ContextMenu_Open_trunk = "打开后备箱",
+    ContextMenu_TrailerSpotlightOn = "打开聚光灯",
+    ContextMenu_TrailerSpotlightOff = "关闭聚光灯",
+    ContextMenu_Turn_On_Generator = "启动发电机",
+
+    -- Soul Filcher's Awesome Time
+
+    ContextMenu_EvolvedRecipe_Drink = "鸡尾酒",
+    ContextMenu_EvolvedRecipe_Chili = "辣椒",
+    ContextMenu_EvolvedRecipe_Cupcakes = "纸杯蛋糕",
+    ContextMenu_EvolvedRecipe_Hotdog = "热狗",
+    ContextMenu_EvolvedRecipe_Icecream = "冰淇淋",
+    ContextMenu_EvolvedRecipe_Jelly = "果冻",
+    ContextMenu_EvolvedRecipe_Juice = "果汁",
+    ContextMenu_EvolvedRecipe_Pancakes = "煎饼",
+    ContextMenu_EvolvedRecipe_Pickles = "泡菜",
+    ContextMenu_EvolvedRecipe_Pizza = "披萨",
+    ContextMenu_EvolvedRecipe_Waffles = "华夫饼",
+
+    ContextMenu_FoodType_Cheese = "奶酪",
+    ContextMenu_FoodType_Chocolate = "巧克力",
+    ContextMenu_FoodType_Pop = "冰棍",
+    ContextMenu_FoodType_Whiskey = "威士忌",
+
+    ContextMenu_Glass_of_Beer = "一杯啤酒",
+    ContextMenu_Glass_of_Wine = "一杯夏多內葡萄酒",
+    ContextMenu_Glass_of_Wine2 = "一杯红酒",
+    ContextMenu_Glass_of_Vodka = "一杯伏特加",
+    ContextMenu_Glass_of_Whiskey = "一杯威士忌",
+
+	-- // Building Time //
+
+    ContextMenu_Black_Crate = "箱子(黑色)",
+    ContextMenu_Blue_Crate = "箱子(蓝色)",
+    ContextMenu_Brown_Crate = "箱子(棕色)",
+    ContextMenu_Cyan_Crate = "箱子(青色)",
+    ContextMenu_Green_Crate = "箱子(绿色)",
+    ContextMenu_Grey_Crate = "箱子(灰色)",
+    ContextMenu_LightBlue_Crate = "箱子(浅蓝色)",
+    ContextMenu_LightBrown_Crate = "箱子(浅棕色)",
+    ContextMenu_Orange_Crate = "箱子(橘色)",
+    ContextMenu_Pink_Crate = "箱子(粉色)",
+    ContextMenu_Purple_Crate = "箱子(紫色)",
+    ContextMenu_Red_Crate = "箱子(红色)",
+    ContextMenu_Turquoise_Crate = "箱子(绿松石色)",
+    ContextMenu_White_Crate = "箱子(白色)",
+    ContextMenu_Yellow_Crate = "箱子(黄色)",
+
+    ContextMenu_Brick_Fence = "砖围栏",
+    ContextMenu_Brick_Oven = "砖窑",
+    ContextMenu_Brick_Wall = "砖墙",
+    ContextMenu_Concrete_Floor = "混凝土地板",
+    ContextMenu_DisplayCounter = "显示计数器",
+    ContextMenu_Fuel = "燃料 ",
+    ContextMenu_LitOven = "燃烧的窑炉",
+    ContextMenu_Masonry = "砌体",
+    ContextMenu_MetalDoorFrame = "金属门框",
+    ContextMenu_Metal_Stairs = "金属楼梯",
+    ContextMenu_Misc = "杂物",
+
+    ContextMenu_AddMoldedBricks = "添加模压砖",
+    ContextMenu_PaintCrate = "给箱子上色",
+    ContextMenu_PaintedCrates = "箱子(彩绘)",
+    ContextMenu_Place_Bricks = "防止砖块s",
+    ContextMenu_Progression = "进度 ",
+    ContextMenu_RemoveBricks = "移除砖块",
+    ContextMenu_RemoveMoldedBricks = "移除模压砖",
+    ContextMenu_Repair_Door = "修理门",
+    ContextMenu_Repair_Window = "修理窗户",
+    ContextMenu_Take_Bricks = "拿砖块",
+    ContextMenu_Tombstone = "墓碑",
+    ContextMenu_Window = "窗户",
+    ContextMenu_Windows = "窗户",
+    ContextMenu_Blocking = "阻塞",
+
+    -- True Actions. Act 2 - Lying
+    
+    ContextMenu_Sit = "坐下",
+	ContextMenu_Lie = "躺下",
+	ContextMenu_OnSleep = "躺倒",
+
+}

@@ -1,0 +1,10 @@
+Items_CN = {
+
+	-- Soul Filcher's Awesome Time (outdated file???)
+
+	DisplayName_Planks = "木板",
+	DisplayName_Nails = "钉子",
+	DisplayName_Log = "原木",
+	DisplayName_Glass_Panel = "玻璃板",
+	DisplayName_Sealant = "密封胶",
+}

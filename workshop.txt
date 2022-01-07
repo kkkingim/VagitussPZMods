@@ -1,0 +1,8 @@
+version=1
+title=Vagitus' Mods Collection
+description=This is a collection of vagitus' Mods
+description=
+description=1. Vagituss CN Translates
+description=2. Vagituss Better Category
+tags=
+visibility=public

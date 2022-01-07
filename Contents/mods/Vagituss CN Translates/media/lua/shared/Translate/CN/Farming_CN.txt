@@ -1,0 +1,10 @@
+Farming_CN = {
+  
+    -- Soul Filcher's Awesome Time
+
+    Farming_Beets = "甜菜",
+    Farming_Cauliflowers = "花椰菜",
+    Farming_Corn = "玉米",
+    Farming_Lemongrass = "柠檬草",
+    Farming_Wheat = "小麦",
+}

@@ -1,0 +1,12 @@
+Sandbox_CN = {
+    -- Become Desensitized
+    Sandbox_BecomeDesensitized = "逐渐麻木",
+	Sandbox_MinimumZombieKills = "最小僵尸击杀数 (必须小于 最大僵尸击杀数)",
+    Sandbox_MinimumZombieKills_tooltip = "达到 最小僵尸击杀数 才有机会获得 麻木特性",
+    Sandbox_MaximumZombieKills = "最大僵尸击杀数 (必须大于 最小僵尸击杀数)",
+    Sandbox_MaximumZombieKills_tooltip = "最大僵尸击杀数 之内一定会获得麻木特性",
+    Sandbox_ConsiderTraits = "是否考虑特性",
+    Sandbox_ConsiderTraits_tooltip = "考虑特性会增加获得麻木特性的几率",
+    Sandbox_ConsiderOccupations = "是否考虑职业",
+    Sandbox_ConsiderOccupations_tooltip = "警察、消防员、公园管理员、保安、医生和护士<br>这些职业会增加获得麻木特性的几率",
+}

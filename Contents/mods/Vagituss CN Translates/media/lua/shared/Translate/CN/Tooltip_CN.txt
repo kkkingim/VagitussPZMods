@@ -1,0 +1,38 @@
+Tooltip_CN = {
+
+    -- Better Towing
+
+    Tooltip_TowBar_TowingCar = "拖车杆可用于牵引车辆",
+
+    -- Tsar Common Library
+
+    Tooltip_Compact_Fridge = "可以安装在某些车辆上",
+    Tooltip_Compact_Oven = "可以安装在某些车辆上",
+    Tooltip_Compact_Microwave = "可以安装在某些车辆上",
+
+    Tooltip_item_tuning = "改装零件",
+    Tooltip_item_ATATuningMagUniversal = "阅读后您将获得基本的强化车辆知识<br>为窗户创建通用保护装置<br>研究不同类型行李箱的图纸<br>了解如何使汽车保险杠更具杀伤力",
+    /************ Autotsar Tuning Atelier - Bus ************/
+    Tooltip_item_AtTuningMagBus = "你将学习如何为丧尸启示录准备你的巴士<br>学习如何为窗户和车轮制作保护<br>了解如何用临时手段制作一个有效的车前杠<br>以及如何制作一个车顶架",
+    Tooltip_item_kengur = "你已经想出了一种新型的车前杠<br>但还是得要仔细看一下你的蓝图",
+    /************ Autotsar Tuning Atelier - Jeep ************/
+    Tooltip_item_AtTuningMagJeep = "阅读后你将获得吉普车基本的改装知识<br>并学会如何制作车窗保护,保险杠,车顶栏杆和额外的行李箱",
+    /************ Autotsar Tuning Atelier - Mustang ************/
+    Tooltip_item_ATATuningFordMustang = "阅读后你将获得福特野马基本的改装知识<br>并学会如何制作车窗保护,牛筋和车顶架",
+
+    -- Weapon Condition Indicator
+
+    Tooltip_TheStar_AmmoCount = "库存弹药",
+    Tooltip_TheStar_AmmoCount_Total = "总计: %1",
+    Tooltip_TheStar_BatteryCharge = "剩余电量: ~ %1 h %2 min",
+
+
+    -- Soul Filcher's Awesome Time
+	Tooltip_craft_ConcreteFloorDesc = "由混凝土制成的基本地板",
+	Tooltip_craft_BrickFenceDesc = "提供有限的保护",
+	Tooltip_craft_BrickOvenDesc = "用于烧砖",
+	Tooltip_craft_DisplayCounterDesc = "显示你最近的收获",
+
+	Tooltip_item_HandTruck = "手持时无法战斗。<br>只能携带大型物品。",    
+
+}

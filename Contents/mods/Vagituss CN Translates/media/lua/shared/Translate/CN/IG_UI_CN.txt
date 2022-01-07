@@ -1,0 +1,249 @@
+IGUI_CN = {
+
+    -- Better Towing
+
+    IGUI_VehicleParttowbar = "牵引杆附件",
+    IGUI_VehicleParttrope = "绳索附件",
+
+    -- Tsar Common Library
+
+    /* ATA 20211209*/
+
+    IGUI_VehiclePartATAVisualSpoilerFront = "扰流唇",
+    IGUI_VehiclePartATAVisualSpoilerRear = "扰流板",
+    IGUI_VehiclePartATAVisualSkirtsSide = "侧面裙板",
+    IGUI_VehiclePartATAVisualFendersWide = "宽挡泥板",
+    IGUI_VehiclePartVisualATASnorkel = "通气管",
+    IGUI_ItemCat_Tuning = "改装",
+
+    /* ATA */
+
+    IGUI_VehiclePartATABullbar = "车前杠",
+    IGUI_VehiclePartATARoofRack = "车顶架",
+    IGUI_VehiclePartATARoofRackToolbox = "车顶工具箱",
+    IGUI_VehiclePartDoorProtection = "门保护",
+    IGUI_VehiclePartDoorRearProtection = "后门保护",
+    IGUI_VehiclePartWheelsProtection = "车轮保护",
+    IGUI_VehiclePartWindowsFrontProtection = "挡风玻璃保护",
+    IGUI_VehiclePartWindowsLeftLiteProtection = "左窗保护",
+    IGUI_VehiclePartWindowsLeftFullProtection = "左窗保护",
+    IGUI_VehiclePartWindowsRightProtection = "右窗保护",
+    IGUI_VehiclePartATAProtectionWindowFront = "挡风玻璃保护",
+    IGUI_VehiclePartATAProtectionWindowRear = "后窗保护",
+    IGUI_VehiclePartATAProtectionWindowFrontLeft = "左前窗保护",
+    IGUI_VehiclePartATAProtectionWindowFrontRight = "右前窗保护",
+    IGUI_VehiclePartATAProtectionWindowMiddleLeft = "左中窗口保护",
+    IGUI_VehiclePartATAProtectionWindowMiddleRight = "中右窗口保护",
+    IGUI_VehiclePartATAProtectionWindowRearLeft = "左后窗保护",
+    IGUI_VehiclePartATAProtectionWindowRearRight = "右后窗保护",
+    IGUI_VehiclePartATAProtectionWheels = "车轮保护",
+    IGUI_VehiclePartATASpareWheel = "备胎",
+    IGUI_VehiclePartATABumper = "保险杠",
+    IGUI_VehiclePartATARoofBase = "刚果笼",
+    IGUI_VehiclePartATAInteractiveTrunkRoofRack = "车顶架",
+    IGUI_VehiclePartATAInteractiveTrunkWheelRack = "备胎上方的行李箱",
+    IGUI_VehiclePartATARoofTent = "车顶帐篷",
+
+    IGUI_VehiclePartATARoofLightFront = "车顶灯（前）",
+    IGUI_VehiclePartATARoofLightLeft = "车顶灯（左）",
+    IGUI_VehiclePartATARoofLightRight = "车顶灯（右）",
+    IGUI_VehiclePartATARoofLightRear = "车顶灯（后）",
+
+    IGUI_VehiclePartATARoofLampFront = "前车顶灯灯泡",
+    IGUI_VehiclePartATARoofLampLeft = "左车顶灯灯泡",
+    IGUI_VehiclePartATARoofLampRight = "右车顶灯灯泡",
+    IGUI_VehiclePartATARoofLampRear = "后车顶灯灯泡",
+
+    IGUI_CraftCategory_Tuning = "改装",
+    IGUI_VehiclePartCattuning = "改装",
+    IGUI_VehiclePartCatprotection = "保护",
+    IGUI_ExitVehicleTent = "退出帐篷",
+
+    IGUI_PlayerText_ATA_TentDontOpen = "帐篷必须是空的",
+    IGUI_PlayerText_ATA_Engine = "我碰不到引擎<br>我需要先移除牛栏",
+
+    /* Common Library */
+    IGUI_VehiclePartshelves = "货架",
+    IGUI_VehiclePartstove = "烤箱",
+    IGUI_VehiclePartfridge = "冰箱",
+    IGUI_VehiclePartcounter = "柜台",
+    IGUI_VehiclePartportablemicrowave = "微波炉",
+    IGUI_VehiclePartmicrowave = "微波炉",
+    IGUI_VehiclePartfreezer = "冰冻柜",
+    IGUI_VehiclePartwardrobe = "橱柜",
+    IGUI_VehiclePartmedicine = "储物柜",
+    IGUI_VehiclePartsidetable = "抽屉",
+    IGUI_VehiclePartseatboxwooden = "座位盒",
+    IGUI_UseStove = "使用炉子",
+    IGUI_UseMicrowave = "使用微波炉",
+    IGUI_Turn_Fridge_On = "打开冰箱",
+    IGUI_Turn_Fridge_Off = "关闭冰箱",
+    IGUI_Turn_Freezer_On = "打开冰冻柜",
+    IGUI_Turn_Freezer_Off = "关闭冰冻柜",
+    IGUI_VehiclePartFridgeFrontLeft = "冰箱",
+    IGUI_VehiclePartFridgeFrontRight = "冰箱",
+    IGUI_VehiclePartFridgeMiddleLeft = "冰箱",
+    IGUI_VehiclePartFridgeMiddleRight = "冰箱",
+    IGUI_VehiclePartFridgeRearLeft = "冰箱",
+    IGUI_VehiclePartFridgeRearRight = "冰箱",
+    IGUI_VehiclePartOvenFrontLeft = "烤箱",
+    IGUI_VehiclePartOvenFrontRight = "烤箱",
+    IGUI_VehiclePartOvenMiddleLeft = "烤箱",
+    IGUI_VehiclePartOvenMiddleRight = "烤箱",
+    IGUI_VehiclePartOvenRearLeft = "烤箱",
+    IGUI_VehiclePartOvenRearRight = "烤箱",
+    IGUI_VehiclePartMicrowaveFrontLeft = "微波炉",
+    IGUI_VehiclePartMicrowaveFrontRight = "微波炉",
+    IGUI_VehiclePartMicrowaveMiddleLeft = "微波炉",
+    IGUI_VehiclePartMicrowaveMiddleRight = "微波炉",
+    IGUI_VehiclePartMicrowaveRearLeft = "微波炉",
+    IGUI_VehiclePartMicrowaveRearRight = "微波炉",
+    IGUI_VehiclePartMattressFrontLeft = "床垫",
+    IGUI_VehiclePartMattressFrontRight = "床垫",
+    IGUI_VehiclePartMattressMiddleLeft = "床垫",
+    IGUI_VehiclePartMattressMiddleRight = "床垫",
+    IGUI_VehiclePartMattressRearLeft = "床垫",
+    IGUI_VehiclePartMattressRearRight = "床垫",
+    IGUI_VehiclePartBatteryHeater = "加热器",
+    IGUI_VehiclePart500FuelTank = "燃油箱",
+    IGUI_VehiclePart1000FuelTank = "燃油箱",
+
+    IGUI_VehiclePartOven = "烤箱",
+    IGUI_VehiclePartRoofrack = "车顶架",
+    IGUI_VehiclePartTV = "电视",
+    IGUI_VehiclePartMattress = "床垫",
+    IGUI_VehiclePartGunRack = "枪架",
+    IGUI_PlayerText_CanNotSleepInMovingCar_Mattress = "请先停车,才能在床垫上睡觉",
+    IGUI_Sleep_NotTiredEnough_Mattress = "我还不累,不想睡觉",
+    IGUI_Turn_Oven_On = "打开烤箱",
+    IGUI_Turn_Oven_Off = "关闭烤箱",
+    IGUI_VehiclePartCatBatteryCharger = "电池充电器",
+    IGUI_VehiclePartBatteryChargerA = "电池 - 位置A",
+    IGUI_VehiclePartBatteryChargerB = "电池 - 位置B",
+    IGUI_VehiclePartBatteryChargerC = "电池 - 位置C",
+
+
+    /************ Autotsar Tuning Atelier - Bus ************/
+
+    IGUI_VehicleNameATAArmyBus = "熊熊巴士-陆军",
+    IGUI_VehicleNameATASchoolBus = "熊熊巴士-学校",
+    IGUI_VehicleNameATAPrisonBus = "熊熊巴士-监狱",
+
+    /************ Autotsar Tuning Atelier - Jeep ************/
+
+    IGUI_VehicleNameATAJeepClassic = "吉普牧马人-经典",
+    IGUI_VehicleNameATAJeepRubicon = "吉普牧马人-卢比肯",
+    IGUI_VehicleNameATAJeepArcher = "吉普牧马人-射手",
+
+    /************ Autotsar Tuning Atelier - Mustang ************/
+
+    IGUI_VehicleNameATAMustangClassic = "福特野马",
+    IGUI_VehicleNameATAMustangPolice = "福特野马",
+
+    -- True Actions. Act 2 - Lying
+
+    IGUI_PlayerText_TRUEA_cant_lie = "现在躺下很危险",
+    IGUI_PlayerText_TRUEA_cant_sit = "现在坐着很危险",
+    IGUI_PlayerText_TRUEA_need_come_closer = "需要靠近",
+    IGUI_PlayerText_TRUEA_bed_away_wall = "需要清理通往床的通道",
+    IGUI_PlayerText_TRUEA_OccupiedPhrases_Sit_1 = "你在喝咖啡休息吗？",
+    IGUI_PlayerText_TRUEA_OccupiedPhrases_Lie_1 = "你为什么这样躺着？",
+    IGUI_PlayerText_TRUEA_OccupiedPhrases_2 = "休息了吗？现在轮到我了",
+    IGUI_PlayerText_TRUEA_OccupiedPhrases_3 = "请把位置给我",
+    IGUI_PlayerText_TRUEA_dont_push_1 = "你为什么要推我？",
+    IGUI_PlayerText_TRUEA_dont_push_2 = "不要推我！",
+    IGUI_PlayerText_TRUEA_dont_push_3 = "让我休息！",
+
+    -- Weapon Condition Indicator
+
+    IGUI_TheStar_AmmoCount = "%1 / %2",
+    IGUI_TheStar_AmmoCountChambered = "%1 + %3 / %2",
+    IGUI_TheStar_Notification_ItemFall = "掉落 %1",
+
+    -- Rain Wash
+
+    IGUI_RainWash_Option = "雨中洗涤",
+    IGUI_RainWash_Option_Tooltip_RainLow = "雨太小了",
+
+    -- Autotsar Trailers
+
+    IGUI_VehiclePartCatGenerator = "发电机",
+    IGUI_VehiclePartEarthingOn = "接线",
+    IGUI_VehiclePartEarthingOff = "拆线",
+
+    -- Better Sorting
+
+    IGUI_ItemCat_Appear = "外观",
+    IGUI_ItemCat_Cleaning = "清洁",
+    IGUI_ItemCat_ClothA = "服装 - 附件",
+    IGUI_ItemCat_ClothM = "服装 - 其他",
+    IGUI_ItemCat_ClothN = "服装 - 普通",
+    IGUI_ItemCat_ClothP = "服装 - 保护",
+    IGUI_ItemCat_Container = "容器",
+    IGUI_ItemCat_Cooking = "烹饪",
+    IGUI_ItemCat_Craft = "制作",
+    IGUI_ItemCat_CraftAmmo = "制作 - 弹药",
+    IGUI_ItemCat_CraftCarp = "制作 - 木工",
+    IGUI_ItemCat_CraftElec = "制作 - 电子",
+    IGUI_ItemCat_CraftMetal = "制作 - 金工",
+    IGUI_ItemCat_CraftTailor = "制作 - 裁缝",
+    IGUI_ItemCat_Drugs = "药物",
+    IGUI_ItemCat_Electronics = "电子",
+    IGUI_ItemCat_FoodB = "食物 - 饮料",
+    IGUI_ItemCat_FoodP = "食物 - 会腐烂",
+    IGUI_ItemCat_FoodN = "食物 - 不会腐烂",
+    IGUI_ItemCat_Junk = "垃圾",
+    IGUI_ItemCat_LitE = "文学 - 娱乐",
+    IGUI_ItemCat_LitR = "文学 - 配方",
+    IGUI_ItemCat_LitS = "文学 - 技能",
+    IGUI_ItemCat_LitV = "文学 - 视频",
+    IGUI_ItemCat_LitW = "文学 - 写作",
+    IGUI_ItemCat_Map = "地图",
+    IGUI_ItemCat_Mechanics = "机械",
+    IGUI_ItemCat_Medical = "医疗",
+    IGUI_ItemCat_Misc = "其他",
+    IGUI_ItemCat_Paint = "油漆",
+    IGUI_ItemCat_SurCamp = "生存 - 露营",
+    IGUI_ItemCat_SurFarm = "生存 - 农业",
+    IGUI_ItemCat_SurFish = "生存 - 钓鱼",
+    IGUI_ItemCat_SurTrap = "生存 - 诱捕",
+    IGUI_ItemCat_Tool = "工具",
+    IGUI_ItemCat_Ammo = "弹药",
+    IGUI_ItemCat_WepAmmo = "武器 - 弹药",
+    IGUI_ItemCat_WepAmmoMag = "武器 - 杂志",
+    IGUI_ItemCat_WepAmmoMagF = "武器 - 杂志(修复)",
+    IGUI_ItemCat_WepBomb = "武器 - 炸弹",
+    IGUI_ItemCat_WepBow = "武器 - 弓",
+    IGUI_ItemCat_WepFire = "武器 - 火器",
+    IGUI_ItemCat_WepMelee = "武器 - 近战",
+    IGUI_ItemCat_WepPart = "武器 - 零件",
+    IGUI_ItemCat_WepRange = "武器 - 远程",
+    IGUI_ItemCat_WepShield = "武器 - 盾牌",
+
+	-- Soul Filcher's Awesome Time
+
+    IGUI_Beard_ChinLong = "Chin Long",
+    IGUI_Beard_ChinSquare = "Chin Square",
+    IGUI_Beard_ChinSquareLong = "Chin Square Long",
+    IGUI_Beard_ChinstrapThin = "Chinstrap Thin",
+    IGUI_Beard_Hollywoodian = "Hollywoodian",
+    IGUI_Beard_Horseshoe = "Horseshoe",
+    IGUI_Beard_Lemmy = "Lemmy",
+    IGUI_Beard_SoulPatch = "Soul Patch",
+
+    IGUI_Hair_Chloe = "蔻依",
+    IGUI_Hair_Guile = "盖尔",
+    IGUI_Hair_MohawkWide = "莫霍克",
+    IGUI_Hair_MohawkWideSpiked = "尖刺莫霍克",
+    IGUI_Hair_Power = "爆炸头",
+    IGUI_Hair_PowerBig = "超级爆炸头",
+    IGUI_Hair_PowerParted = "分离爆炸头",
+    IGUI_Hair_LeftPartingTall = "左分高",
+    IGUI_Hair_RightPartingTall = "右分高",
+    IGUI_Hair_Zack = "扎克",
+
+	IGUI_perks_Masonry = "砌体",
+
+    IGUI_HotbarAttachment_Head = "头部",
+
+}
